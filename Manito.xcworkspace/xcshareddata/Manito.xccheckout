@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C18ACA95-DE81-45DB-BE9C-FE6A333696AF</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Manito</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>226CC2D4264352112EAF669BBEC696AC33F3185E</key>
+		<string>https://git.coding.net/lqw/TenfoldStock.git</string>
+		<key>35285BAE5BF5D51BCB5512F33E0AF35274E2F56F</key>
+		<string>https://git.coding.net/dashentech/Aries-IOS.git</string>
+		<key>6235922BCF83EB55AF4D65F8B0BBA8A8175EF86D</key>
+		<string>https://git.coding.net/lqw/Manito.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Manito.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>226CC2D4264352112EAF669BBEC696AC33F3185E</key>
+		<string>../../Tenfold_stock</string>
+		<key>35285BAE5BF5D51BCB5512F33E0AF35274E2F56F</key>
+		<string>..</string>
+		<key>6235922BCF83EB55AF4D65F8B0BBA8A8175EF86D</key>
+		<string>../../Manito</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://git.coding.net/dashentech/Aries-IOS.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>35285BAE5BF5D51BCB5512F33E0AF35274E2F56F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6235922BCF83EB55AF4D65F8B0BBA8A8175EF86D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Manito</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>226CC2D4264352112EAF669BBEC696AC33F3185E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Tenfold_stock</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>35285BAE5BF5D51BCB5512F33E0AF35274E2F56F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>work_iOS</string>
+		</dict>
+	</array>
+</dict>
+</plist>
